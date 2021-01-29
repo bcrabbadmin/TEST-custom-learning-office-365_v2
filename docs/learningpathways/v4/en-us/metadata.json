@@ -194,6 +194,43 @@
         }
       ]
     },
+     {
+      "Id": "c102f333-0dff-41cc-a984-81fdaed32537",
+      "Name": "Onboarding",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": [
+        {
+          "Id": "f43db1f7-8adf-4aee-b3b7-1b3c092fee47",
+          "Name": "First 30 Days",
+          "Image": "images/categories/modern_workplace_trainingx.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Custom",
+          "SubCategories": []
+        },
+        {
+          "Id": "e70d3424-5f61-4800-9691-c152f5926bc4",
+          "Name": "First 60 Days",
+          "Image": "images/categories/work_remotely.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Custom",
+          "SubCategories": []
+        },
+        {
+          "Id": "7ec1f1af-38f4-4959-bf41-37f6900f6f46",
+          "Name": "First 90 Days",
+          "Image": "images/categories/LP-security-subcategory.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Custom",
+          "SubCategories": []
+        }
+      ]
+    },
     {
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
       "Name": "Products",
