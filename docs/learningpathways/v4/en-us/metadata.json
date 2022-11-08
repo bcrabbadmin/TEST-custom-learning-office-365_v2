@@ -352,17 +352,7 @@
           "SubjectId": null,
           "Source": "Microsoft",
           "SubCategories": []
-        }
-      ]
-    },
-    {
-      "Id": "cf28bc20-ee23-4453-954e-43cc43af67b6",
-      "Name": "Adoption Tools",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Microsoft",
-      "SubCategories": [
+        },
         {
           "Id": "9d9a29c7-72fe-475e-9dd1-d999259d02cb",
           "Name": "Tools",
@@ -382,7 +372,17 @@
           "SubCategories": []
         }
       ]
-    }
+    },
+    {
+      "Id": "8bfac1c4-aec9-4558-931a-185b81492195",
+      "Name": "System Guides",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+      ]
+      }
   ],
   "Audiences": [
     {
