@@ -181,17 +181,7 @@
           "SubjectId": null,
           "Source": "Microsoft",
           "SubCategories": []
-        }
-      ]
-    },
-     {
-      "Id": "c102f333-0dff-41cc-a984-81fdaed32537",
-      "Name": "Onboarding",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Custom",
-      "SubCategories": [
+        },
         {
           "Id": "f43db1f7-8adf-4aee-b3b7-1b3c092fee47",
           "Name": "First 30 Days",
@@ -218,17 +208,7 @@
           "SubjectId": null,
           "Source": "Custom",
           "SubCategories": []
-        }
-      ]
-    },
-    {
-      "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
-      "Name": "Products",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Microsoft",
-      "SubCategories": [
+        },
         {
           "Id": "46589138-0dde-4ea5-b9a1-313481a8eb06",
           "Name": "Outlook",
