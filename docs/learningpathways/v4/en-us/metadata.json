@@ -131,33 +131,23 @@
   "Categories": [
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
-      "Name": "Default Learning Pathways Categories",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Microsoft",
-      "SubCategories": [
-        {
-          "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
-          "Name": "First days",
-          "Image": "images/categories/first_days.png",
-          "TechnologyId": "",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        }
-      ]
-    },
-    {
-      "Id": "8bfac1c4-aec9-4558-931a-185b81492195",
       "Name": "System Guides",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Microsoft",
       "SubCategories": [
+        {
+          "Id": "281c0108-6e20-4fc3-9459-ba267857498e",
+          "Name": "Learning Pathways Success Center",
+          "Image": "images/categories/set-up-Microsoft-365-learning-pathway.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        }
       ]
-      }
+    }
   ],
   "Audiences": [
     {
